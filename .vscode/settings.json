@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/.vscode": false,
+        "**/.pytest_cache": true,
+        "**/.mypy_cache": true,
+        "**/.idea": true,
+        "**/.github": true
+    },
+    "editor.rulers": [80]
+}
